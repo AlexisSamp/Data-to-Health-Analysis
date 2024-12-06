@@ -13,3 +13,14 @@ Stakeholer(HR) requests
 - Provide a list of Healthy individuals and low absenteesim for our healthy bonous program - Total budget $1000 USD
 - Calculate a wage increase or annual compensation for non-smokers for an insurance budget of $983,221 for all non-smokers
 - Create a dashboard for HR to understand absenteeisn at work based on approved wireframe
+
+
+## Background and Overview
+
+## Data Structure Overview
+
+## Executive Summary
+
+## Insights Deep Dive
+
+## Recommendations
