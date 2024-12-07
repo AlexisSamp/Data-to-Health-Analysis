@@ -30,7 +30,7 @@ Below is the PowerBI dashboard. The entire interactive dashboard can be download
 ![alt text](https://github.com/AlexisSamp/Data-to-Health-Analysis/blob/main/dashboard_image.PNG)
 
 #### Healthy Bonus Program
-- 111 employees qualify for the healthy bonus program. Each individual gets a bonus of $9. Healthy individuals were considered to not be social drinkers and smokers and have a BMI of a healthy weight. Low absenteeism was considered less than the average. List of individuals can be seen [here](https://github.com/AlexisSamp/Data-to-Health-Analysis/blob/main/dashboard.pbix)
+- 111 employees qualify for the healthy bonus program. Each individual gets a bonus of $9. Healthy individuals were considered to not be social drinkers and smokers and have a BMI of a healthy weight. Low absenteeism was considered less than the average. List of individuals can be seen [here](https://github.com/AlexisSamp/Data-to-Health-Analysis/blob/main/list_of_healthiest_employees_for_bonus.csv)
 
 - Contributing factors found that 56.8% of employees are social drinkers, 7.3% are social smokers, and 47.3% are of unhealthy weight.
 
