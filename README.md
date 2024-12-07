@@ -1,4 +1,3 @@
-# Data-to-Health-Analysis
 ## Project Background
 DeskWorks Consulting is a company that specializes in providing expert technology advice to organizations seeking specialized insights to enhance their business strategies.
 
