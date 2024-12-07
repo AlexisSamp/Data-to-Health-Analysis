@@ -1,11 +1,4 @@
 # Data-to-Health-Analysis
-Data Analysis Tasks:
-- Build Database
-- Develop SQL Queries
-- Perform Analysis
-- Connect Database to Power BI
-- Build a Dashboard based on approved wireframe
-
 ## Project Background
 DeskWorks Consulting is a company that specializes in providing expert technology advice to organizations seeking specialized insights to enhance their business strategies.
 
